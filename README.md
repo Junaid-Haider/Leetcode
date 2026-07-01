@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Junaid-Haider/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Junaid-Haider/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Junaid-Haider/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Junaid-Haider/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Junaid-Haider/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
