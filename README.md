@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Junaid-Haider/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Junaid-Haider/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Junaid-Haider/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Junaid-Haider/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Junaid-Haider/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Junaid-Haider/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Junaid-Haider/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Junaid-Haider/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
