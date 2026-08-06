@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Junaid-Haider/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Junaid-Haider/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Junaid-Haider/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Junaid-Haider/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Junaid-Haider/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Junaid-Haider/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Junaid-Haider/Leetcode/tree/master/0055-jump-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Junaid-Haider/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Junaid-Haider/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Junaid-Haider/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Junaid-Haider/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Junaid-Haider/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Junaid-Haider/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -190,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Junaid-Haider/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Junaid-Haider/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Junaid-Haider/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
